@@ -57,7 +57,7 @@ termcolor==1.1.0
 traitlets==4.3.2
 urllib3==1.24.2
 virtualenv==16.0.0
-waitress==1.1.0
+waitress==1.4.2
 wcwidth==0.1.7
 Werkzeug==0.15.3
 win-unicode-console==0.5
